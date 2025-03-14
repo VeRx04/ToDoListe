@@ -43,5 +43,5 @@ git clone https://github.com/VeRx04/ToDoListe.git
 cd ToDoListe
 ```
 
-### **Projekt startet**
+### **Projekt starten**
 Aufrufen des Projekts über http://localhost/ToDoListe/

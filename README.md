@@ -7,7 +7,6 @@
   - [Server einrichten](#server-einrichten)  
   - [Repository klonen](#repository-klonen)  
   - [Projekt starten](#projekt-starten)  
-- [Technologien](#technologien)  
 
 ---
 
@@ -44,5 +43,5 @@ git clone https://github.com/VeRx04/ToDoListe.git
 cd ToDoListe
 ```
 
-### **Repository klonen**
+### **Projekt startet**
 Aufrufen des Projekts über http://localhost/ToDoListe/

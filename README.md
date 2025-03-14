@@ -37,10 +37,19 @@ Das Ziel dieses Projekts war es, die Grundlagen von **JavaScript** und die Kommu
 
 ### **Repository klonen**
 Öffne eine Konsole und gib folgende Befehle ein:  
+
+Falls sich Ihr XAMPP-Verzeichnis auf dem Datenträger C befindet:
 ```bash
 cd C:\xampp\htdocs
+```
+
+Falls sich Ihr XAMPP-Verzeichnis auf dem Datenträger D befindet:
+```bash
+cd D:\xampp\htdocs
+```
+
+```bash
 git clone https://github.com/VeRx04/ToDoListe.git
-cd ToDoListe
 ```
 
 ### **Projekt starten**

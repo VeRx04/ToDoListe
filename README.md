@@ -48,6 +48,7 @@ Falls sich Ihr XAMPP-Verzeichnis auf dem Datenträger D befindet:
 cd D:\xampp\htdocs
 ```
 
+Anschließend das Projekt klonen:
 ```bash
 git clone https://github.com/VeRx04/ToDoListe.git
 ```
